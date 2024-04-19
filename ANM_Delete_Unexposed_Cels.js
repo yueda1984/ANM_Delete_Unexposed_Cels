@@ -1,5 +1,5 @@
 /*
-	Delete Unexposed Cels v1.6
+	Delete Unexposed Cels
 
 	A Harmony script for deleting Cels that are unexposed in the Timeline.
 	This will also delete cels that are only used after the scene's last frame.
